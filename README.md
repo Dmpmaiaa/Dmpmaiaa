@@ -1,6 +1,8 @@
 <h1 align="center">Diogo Maia</h1>
 <h3 align="center">Developing the web from Portugal!</h3>
 
+
+
 - 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **open source projects with MERN Stack.**
@@ -9,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/dmpmaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dmpmaia" height="30" width="40" /></a>
+<a href="https://codepen.io/dmpmaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dmpmaia" height="30" width="40" /></a>
 <a href="https://twitter.com/@dmpmaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dmpmaia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dmpmaia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diogo-maia-04163618b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dmpmaia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmpmaia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

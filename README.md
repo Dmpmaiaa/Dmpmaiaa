@@ -58,6 +58,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dmpmaiaa/Dmpmaiaa/output/snake.svg" alt="Snake animation" />
 
-###
